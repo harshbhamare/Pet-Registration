@@ -22,3 +22,5 @@ Our vision is to create a decentralized and transparent system for pet registrat
 ## 5. Contract Address
 *To be deployed on Stacks testnet/mainnet.*  
 Example placeholder: `ST1234ABC5678XYZ9PETREGISTER`
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/6b44740d-336e-420c-b5ee-36210d3fe374" />
+
